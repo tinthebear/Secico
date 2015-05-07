@@ -1,1 +1,3 @@
-secico es la entidad que genera dinero.
+temuco es el folklore hecho ciudad.
+secico es el banco que genera dinero.
+
