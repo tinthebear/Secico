@@ -1,1 +1,1 @@
-secico
+secico es la entidad que genera dinero.
